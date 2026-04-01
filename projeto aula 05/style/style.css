@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #222;
+    margin: 20px;
+}
+
+h1, h2 {
+    font-family: Georgia, serif;
+    color: #2c3e50;
+}
+
+nav a {
+    margin-right: 15px;
+    text-decoration: none;
+    color: #2980b9;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #1abc9c;
+}
+
+.container {
+    max-width: 900px;
+    margin: auto;
+}
